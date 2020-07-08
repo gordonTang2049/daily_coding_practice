@@ -754,7 +754,7 @@ For example, given the above Employee table, the nth highest salary where n = 2 
    e.g. average score of one student
 
 
-# code31 - transforming an array and return 2 warning message accordingly
+# code31 - Transforming an array and return 2 warning message accordingly
 
    if the position is  'sheep', 'wolf', 'sheep' 
       then message "Oi! Sheep number 1! You are about to be eaten by a wolf!"
@@ -765,7 +765,11 @@ For example, given the above Employee table, the nth highest salary where n = 2 
 
       all others return nothing
 
-# code32 - transforming an Json file to other data form
+# code32 - Transforming an Json file to other data form
 
    Transforming a Geo Map code into other data form
 
+# code33 - List of Js Functional Programming 
+
+   List of Js Functional programming for different cicrumstance.
+    

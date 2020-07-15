@@ -773,3 +773,22 @@ For example, given the above Employee table, the nth highest salary where n = 2 
 
    List of Js Functional programming for different cicrumstance.
     
+
+## code34 - TypeScript Squares!
+
+   A perfect square is defined as a whole number that when square rooted is a whole
+   number (such as 1, 4, 9, 16, etc.).
+
+   Make a new file called `get_squares.ts`.
+
+   Write a function called `get_squares` that takes an argument, an array of numbers.
+   This function will return a new array of numbers that qualify 
+   as perfect squares from the argument array.
+
+   **NOTE:** The returned array of perfect squares should be in ascending order with no duplicates.
+
+   ```rb
+   get_squares([4, 1, 16, 1, 10, 35, 22]) # => [1, 4, 16]
+   ```
+
+   Store your solution in a new file called `getSquares.js` and run it in the console.
